@@ -3,9 +3,8 @@
 * [Introduction](Readme.md)
 * [ggde](ggde.md)
 * [frertyuiop](frertyuiop.md)
-*[ARTICLE B](article-b.md)
-* [ARTICLE [ARTICLE B* [ARTICLE * [ARTICLE A](ARTICLE A)
-A](article-a.md)
+* [ARTICLE A](ARTICLE A)
+* cde
 
 ## fdssg
 * [Ciccia](ciccia.md)
