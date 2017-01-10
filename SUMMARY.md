@@ -5,7 +5,7 @@
 * [frertyuiop](frertyuiop.md)
 * [cde](cde.md)
 * [AAAAAAAAAAAAAAAAA](aaaaaaaaaaaaaaaaa.md)
-* QQQQQQQ
+* [WAIT](wait.md)
 
 ## fdssg
 * [Ciccia](ciccia.md)
