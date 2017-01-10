@@ -4,7 +4,7 @@
 * [ggde](ggde.md)
 * [frertyuiop](frertyuiop.md)
 * [ARTICLE A](ARTICLE A)
-* cde
+* [cde](cde.md)
 * [AAAAAAAAAAAAAAAAA](aaaaaaaaaaaaaaaaa.md)
 
 ## fdssg
