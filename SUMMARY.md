@@ -7,3 +7,6 @@
     * [Alla5Pausa](alla5pausa.md)
 * UN ALTRO LOCALE
 
+## Architettura Big Data
+* [Lambda Architecture - Overview](lambda-architecture---overview.md)
+
