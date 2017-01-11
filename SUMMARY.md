@@ -6,4 +6,4 @@
     * [33](23.md)
     * [Alla5Pausa](alla5pausa.md)
 * LOCALE
-
+* REMOTO
