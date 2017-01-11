@@ -5,5 +5,4 @@
 * [Articolo31](articolo31.md)
     * [33](23.md)
     * [Alla5Pausa](alla5pausa.md)
-* LOCALE
-* REMOTO
+
