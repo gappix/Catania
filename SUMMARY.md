@@ -7,3 +7,5 @@
     * [Alla5Pausa](alla5pausa.md)
 * LOCALE
 * REMOTO
+* UN ALTRO LOCALE
+
