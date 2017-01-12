@@ -17,7 +17,7 @@ Una **Lambda Architecture ** è un'architettura di **data processing. **nasce co
 daslkkjslkjalkds
 
 <mark>Marked Text </mark>
-<span style="background-color: #bbbbbb">Marked text</span>
+<span style="background-color: #333333">Marked text</span>
 
 
 
