@@ -2,32 +2,31 @@
 
 ---
 
-Una **Lambda Architecture ** è un'architettura di **data processing. **nasce con lo scopo di gestire enormi quantità di dati, sfruttando metodi di processing sia **batch**, sia **real-time**. Scopo ultimo di una Lambda Architecture è bilanciare nel sistema:
+Con il termine **Lambda Architecture ** \(coniato da Nathan Marz\) si intende una generica architettura di **data processing  **che si prefigge lo scopo di gestire enormi quantità di dati, sfruttando metodi di processing sia **batch**, sia **real-time**. In particolare, scopo ultimo di una Lambda Architecture è ottenere un'infrastruttura con adeguate:
 
-* **latency**
-* **throughput**
-* **fault-tolerance.**
+1. **latency: **il tempo necessario per eseguire una query,
+2. **thoughput,**
+3. **fault-tolerance.**
 
-É possibile, pertanto suddividerla nei seguenti tre layer.
+Un'architettura di questo tipo è solitamente possibile suddividerla nei seguenti tre layer.
 
 ![](/assets/la-overview_small.png)
 
-### Batch Layer
+### 1 - Data
 
-daslkkjslkjalkds
+Tutti i dati che arrivano al sistema sono inviati contemporaneamente sia al Batch Layer sia allo Speed Layer per il processing
 
-<mark>Marked Text </mark>
-<span style="background-color: #333333">Marked text</span>
+### 2 - Batch Layer
 
+### 3 - Serving Layer
 
+### 4 - Speed Layer
 
-### Speed Layer
+### 5 - Query
 
-assdafad
+Le query sui dati possono essere soddisfatte effettuando un merging di informazioni tra la batch-view e la realtime-view.
 
-### Serving Layer
-
-sdfdsssfgs
+![](/assets/Sketch-Data.png)
 
 ---
 

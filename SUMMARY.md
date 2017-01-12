@@ -9,4 +9,5 @@
 
 ## Architettura Big Data
 * [Lambda Architecture - Overview](lambda-architecture---overview.md)
+    * [Lambda Architecture - Soluzioni](lambda-architecture---soluzioni.md)
 
