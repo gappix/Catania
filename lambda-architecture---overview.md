@@ -8,8 +8,6 @@ Una **Lambda Architecture ** è un'architettura di **data processing. **nasce co
 * **throughput**
 * **fault-tolerance.**
 
-
-
 É possibile, pertanto suddividerla nei seguenti tre layer.
 
 ![](/assets/la-overview_small.png)
@@ -17,6 +15,11 @@ Una **Lambda Architecture ** è un'architettura di **data processing. **nasce co
 ### Batch Layer
 
 daslkkjslkjalkds
+
+<mark>Marked Text </mark>
+<span style="background-color: #bbbbbb">Marked text</span>
+
+
 
 ### Speed Layer
 
@@ -32,6 +35,4 @@ sdfdsssfgs
 
 Wikipedia: [https://en.wikipedia.org/wiki/Lambda\_architecture](https://en.wikipedia.org/wiki/Lambda_architecture)  
 Blog: [http://lambda-architecture.net/](http://lambda-architecture.net/)
-
-
 
