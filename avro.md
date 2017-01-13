@@ -4,7 +4,7 @@
 
 ### Cos'è
 
-Avro è un **sistema di serializzazione dei dati.    
+Avro è un **sistema di serializzazione dei dati.      
 **Permette di trasformare i dati di un certo ambiente in una forma **binaria ** o **testuale **facilamente trasportabile.
 
 Meccanismi di serializzazione simili e alternativi ad Avro sono:
@@ -28,11 +28,9 @@ Inoltre:
 
 Per queste caratteristiche è il sistema preferito per lo scambio di dati all'interno di Hadoop.
 
-
-
 ### Funzionamento generale
 
-Avro diichiara uno **schema json**, sulla base del quale **serializza i dati.    
+Avro diichiara uno **schema json**, sulla base del quale **serializza i dati.      
 **Questa caratteristica dello schema rende la serializzazione più **veloce **e **leggera.**
 
 Passaggi necessari per l'utilizzo di AVRO:
