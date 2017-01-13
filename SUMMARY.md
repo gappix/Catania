@@ -13,5 +13,5 @@
     * [Lambda Architecture - Filosofia](lambda-architecture---filosofia.md)
     * [Lambda Architecture - Soluzioni](lambda-architecture---soluzioni.md)
 * [Machine Learning - Overview](machine-learning---overview.md)
-* [AVRO](avro.md)
+* [AVRO - Overview](avro.md)
 
