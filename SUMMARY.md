@@ -7,16 +7,13 @@
     * [Alla5Pausa](alla5pausa.md)
 * [UN ALTRO LOCALE](un-altro-locale.md)
 * [ML - Supervised Classification](ml---supervised-classification.md)
-* [Machine Learning — Overview](machine-learning-—-overview.md)
-* [Bubba](bubba.md)
 
 ## Architettura Big Data
 * [Lambda Architecture - Overview](lambda-architecture---overview.md)
     * [Lambda Architecture - Filosofia](lambda-architecture---filosofia.md)
     * [Lambda Architecture - Soluzioni](lambda-architecture---soluzioni.md)
+* [AVRO - Overview](avro.md)
 * [Machine Learning - Overview](machine-learning---overview.md)
     * [Azure ML Studio - Overview](azure-ml-studio---overview.md)
     * [ML Studio - Componenti di un esperimento](ml-studio---componenti-di-un-esperimento.md)
-* [Machine Learning — Overviewe](machine-learning-—-overview.md)
-* [AVRO - Overview](avro.md)
 
