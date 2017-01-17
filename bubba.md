@@ -2,7 +2,7 @@
 
 
 
-<Mark>Machine Learning è una tecnica di_datascience_che permette ai computer di apprendere da dati esistenti al fine di poter predirre comportamenti, esiti o andamenti futuri.</Mark>
+<Mark>Machine Learning è una tecnica di _datascience_ che permette ai computer di apprendere da dati esistenti al fine di poter predirre comportamenti, esiti o andamenti futuri.</Mark>
 
 Questa capacità può risultare molto utile in analisi di mercato, attività di investimento o per rendere applicazioni e strumenti sempre più intelligenti e adattativi.
 
