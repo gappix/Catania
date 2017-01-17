@@ -10,12 +10,13 @@ Questa capacità può risultare molto utile in analisi di mercato, attività di 
 
 ## Concetti chiave generali
 
-###Data Exploration
+####Data Exploration
 Processo di analisi delle informazioni contenute in un vasto dataset (spesso non strutturato) al fine di trovare caratteristiche utili ad una analisi specifica.
 
-### Data Mining
+#### Data Mining
 Esplorazione dei dati automatizzata.
     
+
 
 
 ---
