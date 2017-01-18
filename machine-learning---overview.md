@@ -1,5 +1,7 @@
 # Machine Learning — Overview
 
+---
+
 Machine Learning è una tecnica di _data science_ che permette ai computer di apprendere da dati esistenti al fine di poter predirre comportamenti, esiti o andamenti futuri.
 
 Questa capacità può risultare molto utile in analisi di mercato, attività di investimento o per rendere applicazioni e strumenti sempre più intelligenti e adattativi.
@@ -13,6 +15,10 @@ Processo di analisi delle informazioni contenute in un vasto dataset \(spesso no
 #### Data Mining
 
 Esplorazione dei dati automatizzata.
+
+### **Descriptive analytics**
+
+Processo di analisi di un dataset per potervi capire andamenti storici di determinati fattori. Ad esempio report di vendita,web metrics, analisi di social network,...
 
 ---
 
