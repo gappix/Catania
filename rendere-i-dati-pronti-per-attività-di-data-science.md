@@ -24,14 +24,14 @@ Fondamentale, quindi, avere una conoscenza—seppur minima—del dominio trattat
 Molti dataset presentano dei **missing values. **Queste mancanze rappresentano delle disocnnessioni tra i dati che devono essere trattate in qualche modo. É quantomai importante cercare di ottenere un insieme di dati il più uniforme e connesso possibile.  
 A seconda della natura delle disconnessioni presenti vi sono specifiche tecniche per trattare i missing values.
 
-
-
 ## 3. Accuratezza dei dati
 
-L'accuratezza dei dati indica quanto le informazioni a disposizione siano ingrado di_** ben rappresentare **_un determinato fenomeno di interesse. 
+L'accuratezza dei dati indica quanto le informazioni a disposizione siano ingrado di\_** ben rappresentare **\_un determinato fenomeno di interesse.
 
-| N.B. | Accuratezza non significa **precisione! **Quest'ultima riguarda effettivamente quanto i dati siano _vicini tra loro. _L'accuratezza invece riguarda quanto il baricentro dei dati sia vicino al fenomeno reale. |
-| :--- | :--- |
+
+
+| N.B. | Accuratezza non significa **precisione!** Quest'ultima riguarda effettivamente quanto i dati siano \_vicini tra loro.\_ L'accuratezza invece riguarda quanto il baricentro dei dati sia vicino al fenomeno reale. |
+| -- | -- |
 
 
 ## ![](/assets/Capture.PNG) ** **
