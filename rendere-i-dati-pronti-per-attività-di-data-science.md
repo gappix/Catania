@@ -26,13 +26,11 @@ A seconda della natura delle disconnessioni presenti vi sono specifiche tecniche
 
 ## 3. Accuratezza dei dati
 
-L'accuratezza dei dati indica quanto le informazioni a disposizione siano ingrado di\_** ben rappresentare **\_un determinato fenomeno di interesse.
+L'accuratezza dei dati indica quanto le informazioni a disposizione siano ingrado di** ben rappresentare ** un determinato fenomeno di interesse.
 
-
-
-| N.B. | Accuratezza non significa **precisione!** Quest'ultima riguarda effettivamente quanto i dati siano \_vicini tra loro.\_ L'accuratezza invece riguarda quanto il baricentro dei dati sia vicino al fenomeno reale. |
-| -- | -- |
-
+|  |  |
+| --- | --- |
+| N.B. | Accuratezza non significa **precisione!**  Quest'ultima riguarda effettivamente quanto i dati siano _vicini tra loro._ L'accuratezza invece riguarda quanto il baricentro dei dati sia vicino al fenomeno reale. |
 
 ## ![](/assets/Capture.PNG) ** **
 
