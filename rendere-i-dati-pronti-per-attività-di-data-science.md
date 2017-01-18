@@ -26,13 +26,29 @@ A seconda della natura delle disconnessioni presenti vi sono specifiche tecniche
 
 ## 3. Accuratezza dei dati
 
-L'accuratezza dei dati indica quanto le informazioni a disposizione siano ingrado di** ben rappresentare ** un determinato fenomeno di interesse.
+L'accuratezza dei dati indica quanto le informazioni a disposizione siano ingrado di** ben rappresentare ** un determinato fenomeno di interesse. Fondamentale per non trarre conclusioni troppo affrettate o erronee.
 
 |  |  |
 | --- | --- |
 | N.B. | Accuratezza non significa **precisione!**  Quest'ultima riguarda effettivamente quanto i dati siano _vicini tra loro._ L'accuratezza invece riguarda quanto il baricentro dei dati sia vicino al fenomeno reale. |
 
 ## ![](/assets/Capture.PNG) ** **
+
+## 4. Dati sufficienti
+
+I dati a disposizione possono essere considerati come pennellate date su di una tela. Solo da un certo numero di informazioni in poi è possibile estrarre conoscenza utile sul contesto di indagine.
+
+| ![](/assets/pennellate1.PNG) | ![](/assets/pennellate2.PNG) |
+| :--- | :--- |
+
+
+
+
+---
+
+###### REFERENCES
+
+* [https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-data-science-for-beginners-is-your-data-ready-for-data-science](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-data-science-for-beginners-is-your-data-ready-for-data-science)
 
 
 
