@@ -52,10 +52,6 @@ Tipologia di modello che si basa su \_variabili indipendenti \_per predirre un v
 
 Valore generato da un modello di classificazione o di regressione per indicare la probabilità legata al valore previsto. Viene utilizzato generalmente per determinare l'accurtezza generale del modello in questione.
 
-
-
-
-
 ---
 
 ###### RESOURCES

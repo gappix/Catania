@@ -1,6 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
+* [Le 5 domande di un Data Scientist](le-5-domande-di-un-data-scientist.md)
+* [Rendere i dati pronti per attività di Data Science](rendere-i-dati-pronti-per-attività-di-data-science.md)
 
 ## Architettura Big Data
 * [Lambda Architecture - Overview](lambda-architecture---overview.md)
