@@ -22,7 +22,7 @@ Questi algoritmi permettono di assegnare una specifica risposta \(ovvero assegna
 
 ## 2. Is this weird? — Anomaly detection
 
-Questa tiipologia di algoritmi analizza i dati in input alla ricerca di comportamenti insoliti, strani o particolarmente sospetti. Sono particolarmente utilizzati in ambito di sicurezza per identificare tempestivaemnte frodi, attacchi o anomalie pericolose in un sistema.
+Questa tipologia di algoritmi analizza i dati in input alla ricerca di comportamenti insoliti, strani o particolarmente sospetti. Sono particolarmente utilizzati in ambito di sicurezza per identificare tempestivaemnte frodi, attacchi o anomalie pericolose in un sistema.
 
 ## 3. How much/ How Many — Regression
 
