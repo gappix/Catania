@@ -36,12 +36,10 @@ L'accuratezza dei dati indica quanto le informazioni a disposizione siano ingrad
 
 ## 4. Dati sufficienti
 
-I dati a disposizione possono essere considerati come pennellate date su di una tela. Solo da un certo numero di informazioni in poi è possibile estrarre conoscenza utile sul contesto di indagine.
+I dati a disposizione possono essere considerati come pennellate date su di una tela. Solo da un certo numero di informazioni in poi è possibile estrarre conoscenza veramente utile sul contesto di indagine.
 
 | ![](/assets/pennellate1.PNG) | ![](/assets/pennellate2.PNG) |
 | :--- | :--- |
-
-
 
 
 ---

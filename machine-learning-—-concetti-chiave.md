@@ -18,32 +18,24 @@ Processo di analisi di un dataset per potervi capire andamenti storici di determ
 
 Processo di costruzione di modellli a partire da dati storici o presenti, al fine di predirre esiti futuri.
 
-### 
-
-### **Supervised learning**
+#### **Supervised learning**
 
 Algoritmi che neccessitano di essere _addestrati _\(training\) con dati già categorizzati.  
 La maggior parte degli algoritmi di ML appartiene a questa categoria.
 
-### **Unsupervised learning**
+#### **Unsupervised learning**
 
-Algoritmo e metodolo gie che non necessitano di dati già categorizzati. Questi algoritmi si prefiggono solitamente lo scopo di individuare o scoprire relazioni presenti nei dati.   
-Esempi di algoritmi sono quelli di clustering o di individuazione di regole. 
+Algoritmo e metodolo gie che non necessitano di dati già categorizzati. Questi algoritmi si prefiggono solitamente lo scopo di individuare o scoprire relazioni presenti nei dati.  
+Esempi di algoritmi sono quelli di clustering o di individuazione di regole.
 
-
-
-### Training data
+#### Training data
 
 Dataset sulla base del quale si costruisce il modello. Sulla base di questi dati si cerca di solito di capire gli andamenti e di istruire un algoritmo sulcome effettuare previsioni.  
 É buona parassi splittare il dataset completo usandone solo una parte \(70% di solito\) per il training.
 
-### Testing data
+#### Testing data
 
 Per valutare la bontà del modello costruito si utilizza una parte del dataset \(quella non adoperata per il training\) per provare a capire quanto il modello costruito è in grado di effettuare buone previsioni. Importante la natura **randomica** nella scelta della suddivisione del dataset a disposizione
-
-
-
-
 
 ---
 
