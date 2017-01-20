@@ -5,6 +5,7 @@
 * [Rendere i dati pronti per attività di Data Science](rendere-i-dati-pronti-per-attività-di-data-science.md)
 * [Missing Values — Overview](missing-values-—-overview.md)
 * [Strategie per trattare i Missing Values](strategie-per-trattare-i-missing-values.md)
+* [Figura del Data Scientist](figura-del-data-scientist.md)
 
 ## Architettura Big Data
 * [Lambda Architecture - Overview](lambda-architecture---overview.md)
